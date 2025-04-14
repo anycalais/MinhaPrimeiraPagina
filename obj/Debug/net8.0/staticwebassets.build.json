@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "x4GU8ui6m1bYA1FXwinHvU2cQe3iPi36MO+K7XUJUhs=",
+  "Source": "MinhaPrimeiraPagina",
+  "BasePath": "_content/MinhaPrimeiraPagina",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MinhaPrimeiraPagina\\wwwroot",
+      "Source": "MinhaPrimeiraPagina",
+      "ContentRoot": "C:\\Users\\Alunos\\MinhaPrimeiraPagina\\wwwroot\\",
+      "BasePath": "_content/MinhaPrimeiraPagina",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Alunos\\MinhaPrimeiraPagina\\wwwroot\\index.html",
+      "SourceId": "MinhaPrimeiraPagina",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Alunos\\MinhaPrimeiraPagina\\wwwroot\\",
+      "BasePath": "_content/MinhaPrimeiraPagina",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Alunos\\MinhaPrimeiraPagina\\wwwroot\\sobre.html",
+      "SourceId": "MinhaPrimeiraPagina",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Alunos\\MinhaPrimeiraPagina\\wwwroot\\",
+      "BasePath": "_content/MinhaPrimeiraPagina",
+      "RelativePath": "sobre.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sobre.html"
+    }
+  ]
+}
